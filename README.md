@@ -10,8 +10,8 @@ This PowerBI project analyzes Netflix's TV Shows and Movies catalog, providing i
 - **Dataset Source:** [Netflix Movies and TV Shows ] (https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Dashboard Preview
-- ![PowerBI Dashboard] (Netflix TV Shows & Movies.pbix)
-- ![Screenshot-ed Dashboard] (Netflix TV Shows & Movies Project.png)
+- [PowerBI Dashboard] (Netflix TV Shows & Movies.pbix)
+- [Screenshot-ed Dashboard] (Netflix TV Shows & Movies Project.png)
 
 ## Key Features & Insights
 - **KPI**: Total Titles, genres, ratings, years, and locations
