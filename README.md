@@ -25,10 +25,10 @@ This PowerBI project analyzes Netflix's TV Shows and Movies catalog, providing i
 - **Source**: Kaggle dataset [Netflix Movies and TV Shows]
 - **Columns used**: title, type, release_year, country, rating, listed_in
 - **Steps Taken**:
-- Cleaned missing values
-- Split and normalized genre and country fields
-- Created year range and type breakdown
-- Grouped and counted records for aggregation visuals
+  - Cleaned missing values
+  - Split and normalized genre and country fields
+  - Created year range and type breakdown
+  - Grouped and counted records for aggregation visuals
 
 ## Project Status
 Completed ✅ 
