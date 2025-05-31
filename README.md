@@ -32,4 +32,3 @@ This PowerBI project analyzes Netflix's TV Shows and Movies catalog, providing i
 
 ## Project Status
 Completed ✅ 
-- 
